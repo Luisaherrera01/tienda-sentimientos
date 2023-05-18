@@ -1,9 +1,15 @@
-import React from 'react'
+import Img from "../../assets/img/logo.jpg"
+import {Nav} from "../header/Nav"
 
-const Header = () => {
+
+export const Header = () => {
   return (
-    <div>Header</div>
+    <section>
+      <img src={Img} alt="" />
+      <section>
+        <Nav/>
+      </section>
+    </section>
   )
 }
 
-export default Header

@@ -1,6 +1,7 @@
 import { createBrowserRouter,RouterProvider } from "react-router-dom"
-import Header from "./components/header/Header"
-import { Main } from "./components/Main/Main"
+import {Header} from "./components/header/Header"
+import  {Main}  from "./components/main/Main"
+import {Contactenos} from "./components/main/Contactenos"
 
 const router = createBrowserRouter([
   {
@@ -10,6 +11,10 @@ const router = createBrowserRouter([
   {
     path: "/productos",
     element:<Main/>
+  },
+  {
+    path: "/contactenos",
+    element:<Contactenos/>
   }
 ])
 

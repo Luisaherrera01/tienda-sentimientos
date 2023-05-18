@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "nombre": "Taza de amor",
+      "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+      "precio": 10.99,
+      "disponible": true,
+      "categoria": "Regalos",
+      "imagen": "https://ejemplo.com/taza_amor.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.99,
+        "disponible": true,
+        "categoria": "Joyas",
+        "imagen": "https://ejemplo.com/collar_corazon.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.99,
+      "disponible": true,
+      "categoria": "Libros",
+      "imagen": "https://ejemplo.com/libro_poemas.jpg"
+    },
+    {
+      
+        "id": 4,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.99,
+      "disponible": true,
+      "categoria": "Peluches",
+      "imagen": "https://ejemplo.com/peluche_abrazable.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.99,
+      "disponible": true,
+      "categoria": "Papelería",
+      "imagen": "https://ejemplo.com/tarjeta_agradecimiento.jpg"
+    }
+  ]
