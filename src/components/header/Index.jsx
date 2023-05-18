@@ -14,7 +14,7 @@ export const Index = () => {
         </section>
         <section className="index-productos">
             <section>
-                <h1>Tazas</h1>
+                <h1>Regalos</h1>
                 <img src={Taza} alt="photo taza" />
             </section>
             <section >
@@ -30,7 +30,7 @@ export const Index = () => {
                 <img src={Peluche} alt="photo peluche" />
             </section>
             <section>
-                <h1>Tarjetas</h1>
+                <h1>Papeleria</h1>
                 <img src={Tarjeta} alt="photo tarjeta" />
         </section>
         </section>
