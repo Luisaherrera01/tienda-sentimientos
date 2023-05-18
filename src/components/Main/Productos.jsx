@@ -18,7 +18,12 @@ export const Productos = () => {
     <div className="container-productos">
         {productos.map((productos)=>(
             <section key={productos.id} className="mainCard">
-                <h1>{productos.nombre}</h1>
+                <h1><strong>{productos.nombre}</strong></h1>
+                <img src={productos.imagen} alt="" />
+                <p>{productos.descripcion}</p>
+                <p>{productos.categoria}</p>
+                <p>{productos.precio}</p>
+
             </section>
         ))}
         
