@@ -1,12 +1,12 @@
 import { createBrowserRouter,RouterProvider } from "react-router-dom"
-import {Header} from "./components/header/Header"
+import { Index } from "./components/header/Index"
 import  {Main}  from "./components/main/Main"
 import {Contactenos} from "./components/main/Contactenos"
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element:<Header/>
+    element:<Index/>
   },
   {
     path: "/productos",

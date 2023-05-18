@@ -1,11 +1,16 @@
 import {Header} from "../header/Header"
-import { Productos } from "./Productos"
+import {Productos} from "../main/Productos"
 
 export const Main = () => {
   return (
     <section>
-        <Header/>
-        <Productos/>
+        <section>
+            <Header/>
+        </section>
+        <section>
+            <Productos/>
+        </section>
+
     </section>
   )
 }

@@ -1,0 +1,57 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border-radius: 10px;
+    height: 150px;
+}
+
+.header .logo{
+    display: flex;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border: 1px solid white;
+}
+
+
+
+.nav ul{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.nav li{
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+
+}
+.header .container-productos{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+
+}
+.container-productos .index-productos{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 40px;
+
+
+}
+
+.container-productos .index-productos img {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px solid rgb(15, 128, 204);
+}

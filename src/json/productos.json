@@ -4,7 +4,6 @@
       "nombre": "Taza de amor",
       "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
       "precio": 10.990,
-      "disponible": true,
       "categoria": "Regalos",
       "imagen": "https://ejemplo.com/taza_amor.jpg"
     },
@@ -13,7 +12,6 @@
         "nombre": "Collar de corazón",
         "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
         "precio": 29.990,
-        "disponible": true,
         "categoria": "Joyas",
         "imagen": "https://ejemplo.com/collar_corazon.jpg"
     },
@@ -22,7 +20,6 @@
         "nombre": "Libro de poemas",
       "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
       "precio": 14.990,
-      "disponible": true,
       "categoria": "Libros",
       "imagen": "https://ejemplo.com/libro_poemas.jpg"
     },
@@ -32,7 +29,6 @@
         "nombre": "Peluche abrazable",
       "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
       "precio": 19.990,
-      "disponible": true,
       "categoria": "Peluches",
       "imagen": "https://ejemplo.com/peluche_abrazable.jpg"
     },
@@ -41,7 +37,6 @@
         "nombre": "Tarjeta de agradecimiento",
       "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
       "precio": 3.990,
-      "disponible": true,
       "categoria": "Papelería",
       "imagen": "https://ejemplo.com/tarjeta_agradecimiento.jpg"
     }

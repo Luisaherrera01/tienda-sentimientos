@@ -1,11 +1,13 @@
 import Img from "../../assets/img/logo.jpg"
-import {Nav} from "../header/Nav"
+import { Nav } from "../header/Nav"
+import "../header/styleHeader.css"
+
 
 
 export const Header = () => {
   return (
-    <section>
-      <img src={Img} alt="" />
+    <section className="header">
+      <img src={Img} alt="" className="logo"/>
       <section>
         <Nav/>
       </section>
