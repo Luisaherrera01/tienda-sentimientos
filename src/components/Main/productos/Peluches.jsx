@@ -1,9 +1,11 @@
 import { useEffect,useState } from "react"
+import { Header } from "../../header/Header"
+import { Productos } from "../Productos"
 
 export const Peluches = () => {
     const [peluches, setPeluches] = useState([])
     const mostrarPeluches = async() => {
-        await fetch("src/json/productos.json")
+        await fetch("src/json/peluches.json")
         .then((res)=>res.json())
         .then((data)=>setPeluches(data))
         .catch((err)=>{
@@ -15,18 +17,21 @@ export const Peluches = () => {
     useEffect(()=>{mostrarPeluches()},[])
 
   return (
-    <div className="container-peluches">
+    <div>
+        <Header/>
+        <Productos/>
+        <section className="container">
         {peluches.map((peluches)=>(
             <section key={peluches.id} className="mainCard">
                 <h1><strong>{peluches.nombre}</strong></h1>
                 <img src={peluches.imagen} alt="" />
-                <p>{peluches.descripcion}</p>
-                <p>{peluches.categoria}</p>
-                <p>{peluches.precio}</p>
+                <p><strong>Descripción:</strong>{peluches.descripcion}</p>
+                <p><strong>Categoria:</strong>{peluches.categoria}</p>
+                <p><strong>Precio:</strong>{peluches.precio}</p>
 
             </section>
         ))}
-        
+        </section>
     </div>
   )
 }

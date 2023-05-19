@@ -1,0 +1,92 @@
+[
+    {
+      
+        "id": 1,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 2,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 3,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 4,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 5,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 6,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 7,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 8,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 9,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    },
+    {
+      
+        "id": 10,
+        "nombre": "Peluche abrazable",
+      "descripcion": "Un peluche suave y abrazable que transmite calidez y cariño.",
+      "precio": 19.990,
+      "categoria": "Peluches",
+      "imagen": "src/assets/img/peluche.jpg"
+    }
+]
