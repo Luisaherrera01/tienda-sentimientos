@@ -1,5 +1,6 @@
 import {Header} from "../header/Header"
 import "../header/styleHeader.css"
+import { Link } from "react-router-dom"
 import Taza from "../../assets/img/taza.jpg"
 import Collar from "../../assets/img/collar.jpg"
 import Libro from "../../assets/img/libro.jpg"
@@ -14,23 +15,23 @@ export const Index = () => {
         </section>
         <section className="index-productos">
             <section>
-                <h1>Regalos</h1>
+                <Link to={"/Regalos"}>Regalos</Link>
                 <img src={Taza} alt="photo taza" />
             </section>
             <section >
-                <h1>Joyas</h1>
+                <Link to={"/joyas"}>Joyas</Link>
                 <img src={Collar} alt="photo collar" />
             </section>
             <section>
-                <h1>Libros</h1>
+                <Link to={"/libros"}>Libros</Link>
                 <img src={Libro} alt="photo libro" />
             </section>
             <section>
-                <h1>Peluches</h1>
+                <Link to={"/peluches"}>Peluches</Link>
                 <img src={Peluche} alt="photo peluche" />
             </section>
             <section>
-                <h1>Papeleria</h1>
+                <Link to={"/papeleria"}>Papelería</Link>
                 <img src={Tarjeta} alt="photo tarjeta" />
         </section>
         </section>

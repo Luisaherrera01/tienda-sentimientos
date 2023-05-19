@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 export const Productos = () => {
   return (
-    <section>
+    <section className="link-productos">
          <ul>
             <li><Link to={"/joyas"}>Joyas</Link></li>
             <li><Link to={"/libros"}>Libros</Link></li>

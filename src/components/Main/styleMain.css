@@ -15,3 +15,42 @@
 .formulario p{
     padding: 10px;
 }
+
+.link-productos{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 10px;
+}
+
+.link-productos ul{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.link-productos li{
+    margin: 10px;
+    padding: 10px;
+    text-align: start;
+    list-style: none;
+}
+
+.container-joyas{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 10px;
+}
+
+.mainCard{
+    background-color: blue;
+    padding: 10px;
+}
+
+.mainCard img{
+background-color: aquamarine;
+margin: 10px;
+padding: 10px;
+
+}
