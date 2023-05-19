@@ -16,41 +16,57 @@
     padding: 10px;
 }
 
+
 .link-productos{
-    display: flex;
-    flex-direction: column;
-    margin: 10px;
+
+    margin: 20px;
     padding: 10px;
+    
 }
+
 
 .link-productos ul{
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin: 0 20px 0 20px;
     padding: 10px;
+    background-color: rgba(42, 120, 165, 0.425);
+    border-radius: 20px;
+    
+
 }
 
 .link-productos li{
     margin: 10px;
     padding: 10px;
-    text-align: start;
     list-style: none;
 }
 
 .container-joyas{
     display: flex;
-    flex-direction: row;
-    margin: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 30px;
     padding: 10px;
+
 }
 
 .mainCard{
-    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
     padding: 10px;
+    margin: 10px;
+    width: 200px;
+    height: 400px;
+    border: 3px solid rgb(42, 120, 165, 0.425);
+    border-radius: 20px;
+
 }
 
 .mainCard img{
-background-color: aquamarine;
-margin: 10px;
-padding: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
 
 }

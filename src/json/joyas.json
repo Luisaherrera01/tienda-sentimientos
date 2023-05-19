@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Collar de corazón",
+        "descripcion": "Un collar con un colgante en forma de corazón para expresar tus sentimientos.",
+        "precio": 29.990,
+        "categoria": "Joyas",
+        "imagen": "src/assets/img/collar.jpg"
+    }
+]

@@ -6,7 +6,7 @@ import "../../main/styleMain.css"
 export const Joyas = () => {
     const [joyas, setJoyas] = useState([])
     const mostrarJoyas = async() => {
-        await fetch("src/json/productos.json")
+        await fetch("src/json/joyas.json")
         .then((res)=>res.json())
         .then((data)=>setJoyas(data))
         .catch((err)=>{
@@ -20,15 +20,17 @@ export const Joyas = () => {
   return (
     <div>
         <Header/>
-        <section className="container-joyas">
         <Productos/>
+
+        <section className="container-joyas">
+
         {joyas.map((joyas)=>(
             <section key={joyas.id} className="mainCard">
-                <h1><strong>{joyas.nombre}</strong></h1>
+                <h1><strong> {joyas.nombre}</strong></h1>
                 <img src={joyas.imagen} alt="" />
-                <p>{joyas.descripcion}</p>
-                <p>{joyas.categoria}</p>
-                <p>{joyas.precio}</p>
+                <p><strong>Descripción:</strong> {joyas.descripcion}</p>
+                <p><strong>Categoria:</strong> {joyas.categoria}</p>
+                <p><strong>Precio:</strong> {joyas.precio}</p>
 
             </section>
         ))}
