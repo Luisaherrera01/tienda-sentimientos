@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Taza de amor",
+        "descripcion": "Una taza con un mensaje de amor para regalar a esa persona especial.",
+        "precio": 10.990,
+        "categoria": "Regalos",
+        "imagen": "src/assets/img/taza.jpg"
+      }
+]

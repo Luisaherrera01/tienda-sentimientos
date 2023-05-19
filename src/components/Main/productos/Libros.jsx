@@ -1,6 +1,7 @@
 import { useEffect,useState } from "react"
 import { Header } from "../../header/Header"
 import { Productos } from "../Productos"
+import "../../main/styleMain.css"
 
 export const Libros = () => {
     const [libros, setLibros] = useState([])

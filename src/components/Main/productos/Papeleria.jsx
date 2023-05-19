@@ -1,6 +1,7 @@
 import { useEffect,useState } from "react"
 import { Header } from "../../header/Header"
 import { Productos } from "../Productos"
+import "../../main/styleMain.css"
 
 export const Papeleria = () => {
     const [papeleria, setPapeleria] = useState([])
