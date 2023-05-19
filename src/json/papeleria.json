@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Tarjeta de agradecimiento",
+      "descripcion": "Una tarjeta con un mensaje de agradecimiento para expresar tus sentimientos de gratitud.",
+      "precio": 3.990,
+      "categoria": "Papelería",
+      "imagen": "src/assets/img/tarjeta.jpg"
+    }
+]
