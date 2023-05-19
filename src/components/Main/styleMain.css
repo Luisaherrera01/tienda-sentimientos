@@ -42,7 +42,7 @@
     list-style: none;
 }
 
-.container-joyas{
+.container{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

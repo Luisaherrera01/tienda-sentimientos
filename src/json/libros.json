@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    },
+    {
+        "id": 10,
+        "nombre": "Libro de poemas",
+      "descripcion": "Un libro de poemas lleno de versos que tocan el corazón y las emociones.",
+      "precio": 14.990,
+      "categoria": "Libros",
+      "imagen": "src/assets/img/libro.jpg"
+    }
+]

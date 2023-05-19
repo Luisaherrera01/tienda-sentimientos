@@ -22,7 +22,7 @@ export const Joyas = () => {
         <Header/>
         <Productos/>
 
-        <section className="container-joyas">
+        <section className="container">
 
         {joyas.map((joyas)=>(
             <section key={joyas.id} className="mainCard">
